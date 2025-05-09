@@ -36,7 +36,7 @@ Welcome to my project portfolio! Here you'll find a collection of my personal, a
 - Curated a custom dataset of tourist spots using Generative AI and trained models in Google Colab with scikit-learn and TensorFlow.
 - Built a dynamic web app using Anvil to collect user feedback and refine recommendations in real time.
 
-### 👩‍💻 [UNOher] (https://github.com/schelimilla/UNO-Her)
+### 👩‍💻 [UNOher](https://github.com/schelimilla/UNO-Her)
 **Description:** Uno-Her: Women In Tech Edition, a spin off of the classic game Uno with the primary goal of educating players about influential women in computer science history.  
 **Tech Stack:** pygame, Python
 
