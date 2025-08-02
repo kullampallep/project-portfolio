@@ -18,7 +18,7 @@ Welcome to my project portfolio! Here you'll find a collection of my personal, a
 - Integrated external APIs to populate books, movies, TV shows and music
 
 ### 📈 [Insight.Ed](https://github.com/kullampallep/insight.ed)
-**Description:** Introducing TuneIn - a social recommendation platform where people create groups based on shared interests and post recommendations for movies, TV shows, music, and books.  
+**Description:** Insight.Ed is a school rating platform powered by Machine Learning. This projects analyzes Virginia public schools and categorizes schools based on student success rates.  
 **Tech Stack:** Python, scikit-learn
 
 **Highlights:**
